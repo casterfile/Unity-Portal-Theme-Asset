@@ -3,7 +3,7 @@ Developer: Anthony A. Castor
 
 This Source does not give any warranty please use at your own risk </br>
 
-This plugin is for sharing screenshot in social media. </br>
+This plugin is adding a portal effect in the scene. </br>
 
 This application is free of virus or malware </br>
 
@@ -28,10 +28,10 @@ Github: https://goo.gl/jPHFPe </br>
 
 
 <h3>Description</h3>
-This plugin allows you to use the native sharing window of your mobile device.</br>
-•	Works on Unity3d 5.0+</br>
-•	Works on Android, version 2.3.3 and higher (probably 2.2 as well).</br>
-•	Works on iOS6 and up.</br>
+This plugin is adding a portal effect in the scene.</br>
+•	Effect is good if you want to add a portal in your game.</br>
+•	I add this becuase some people having problem in adding portal.</br>
+•	This is only an example.</br>
 
 ![alt text](screenshots/1.PNG "Scene1")
 
